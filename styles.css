@@ -1,0 +1,31 @@
+* {
+  box-sizing: content-box;
+}
+.container {
+  background-color: #1f2937;
+  text-decoration-color: #f9faf8;
+}
+.pp {
+  color: #f9faf8;
+  text-align: right;
+  padding-right: 10%;
+  align-items: flex-start;
+}
+.hero {
+  font-size: 48px;
+  font-weight: bolder;
+  color: #f9faf8;
+  justify-self: left;
+}
+
+
+footer {
+  background-color: #1f2937;}
+
+img {
+  padding-left: 10%;
+  align-items: flex-start;
+}
+div {
+  flex: 1
+}
